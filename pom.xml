@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.infosys</groupId>
-	<artifactId>ProductMS</artifactId>
+	<artifactId>OrderManagementSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ProductMS</name>
 	<description>ProductMS For Order Management System</description>
